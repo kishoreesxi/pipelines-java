@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/kishoreesxi4/naga_azure_project/_apis/build/status/kishoreesxi.pipelines-java?branchName=master)](https://dev.azure.com/kishoreesxi4/naga_azure_project/_build/latest?definitionId=2&branchName=master)
+
 
 # Contributing
 
